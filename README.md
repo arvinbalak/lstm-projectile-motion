@@ -17,7 +17,7 @@ Code for loading saved LSTM model inside folder /model and using it to calculate
 0 ,0.0 ,0.0
 1 ,0.707106781187 ,0.658106781187
 
-All parameters are configure. Run the script using command 'python predicted_trajectory.py' to print predicteted trajectory, plot graph (and save to predicted_trajectory.png) and save trajectory to predicted_trajectory.csv.
+All parameters are configured. Run the script using command 'python predicted_trajectory.py' to print predicted trajectory, plot graph (and save to predicted_trajectory.png) and save trajectory to predicted_trajectory.csv.
 
 ### predicted_trajectory.csv
 The predicted trajectory of a projectile launched at 45 degrees with an initial velocity of 10 m/s, in the same format as dataset csv
