@@ -1,4 +1,4 @@
-# lstm-projectile-motion
+# Model Projectile Motion with an LSTM
 Model in tensorflow that predicts the trajectory of a projectile using LSTM, given initial 2 coordinates. 
 * Run model.py to train on dataset in data/projectiles.csv
 * Run predicted_trajectory.py to use saved model to calculate predicted trajectory and plot graphs
